@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Magatte-mb
-- 👀 I’m interested in development web
-- 🌱 I’m currently learning langage C
+- 👋 Hi, I’m @Magatte-mbathie
+- 👀 I’m interested in development full strack
+- 🌱 I’m currently learning langage python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
